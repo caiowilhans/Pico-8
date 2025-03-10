@@ -10,3 +10,6 @@ Este repositório tem a intenção de mostrar os melhores jogos do pico 8, um co
 
 3. [Birds with guns](https://www.lexaloffle.com/bbs/?pid=100000#p)
     1. Você incorpora a pele de um pássaro que foi capturado e agora precisar usar tudo para fugir, incluindo diversos tipos de armas.
+
+4. [Motion rec](https://www.lexaloffle.com/bbs/?pid=131910#p)
+    1. É necessário usar as mecânicas de avançar e voltar no tempo, além de capturar seus movimentos, para passar por todos os desafios.
